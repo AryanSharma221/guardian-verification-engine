@@ -1,0 +1,1 @@
+const { generateTestPlan } = require('./engines/testPlanGenerator'); try { console.log(generateTestPlan('7e917db6-3053-4139-bab0-765d01b6ccd4').summary); } catch(e) { console.error('FAIL:', e.stack); }  
