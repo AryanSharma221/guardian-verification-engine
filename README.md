@@ -89,6 +89,6 @@ guardian/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Created by **Aryan Sharma**.
+Created by **Aryan Sharma**, **Harnoor Kant**, and **Akshat Shukla**.
